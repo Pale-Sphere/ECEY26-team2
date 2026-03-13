@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Mar 12 20:47:29 2026
+# Process ID: 34580
+# Current directory: C:/Users/losey/Desktop/Thesis-HDL-Projects/I2S-Interpreter_Basys3/I2S Interpreter Basys 3-Senior Thesis Project.runs/synth_1
+# Command line: vivado.exe -log I2Sreceiver.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source I2Sreceiver.tcl
+# Log file: C:/Users/losey/Desktop/Thesis-HDL-Projects/I2S-Interpreter_Basys3/I2S Interpreter Basys 3-Senior Thesis Project.runs/synth_1/I2Sreceiver.vds
+# Journal file: C:/Users/losey/Desktop/Thesis-HDL-Projects/I2S-Interpreter_Basys3/I2S Interpreter Basys 3-Senior Thesis Project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source I2Sreceiver.tcl -notrace

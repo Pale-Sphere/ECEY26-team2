@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Mar 12 20:47:29 2026
+# Process ID: 34580
+# Current directory: C:/Users/losey/Desktop/Thesis-HDL-Projects/I2S-Interpreter_Basys3/I2S Interpreter Basys 3-Senior Thesis Project.runs/synth_1
+# Command line: vivado.exe -log I2Sreceiver.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source I2Sreceiver.tcl
+# Log file: C:/Users/losey/Desktop/Thesis-HDL-Projects/I2S-Interpreter_Basys3/I2S Interpreter Basys 3-Senior Thesis Project.runs/synth_1/I2Sreceiver.vds
+# Journal file: C:/Users/losey/Desktop/Thesis-HDL-Projects/I2S-Interpreter_Basys3/I2S Interpreter Basys 3-Senior Thesis Project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source I2Sreceiver.tcl -notrace
+Command: synth_design -top I2Sreceiver -part xc7a35tcpg236-1
+0 Infos, 0 Warnings, 0 Critical Warnings and 1 Errors encountered.
+synth_design failed
+ERROR: [Common 17-1293] The path 'C:/Users/losey/Desktop/Thesis-HDL-Projects/I2S-Interpreter_Basys3/I2S Interpreter Basys 3-Senior Thesis Project.cache/wt' already exists, is a directory, but is not writable.
+INFO: [Common 17-206] Exiting Vivado at Thu Mar 12 20:47:32 2026...
